@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "PinClipart.com_lick-clipart_5314165.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "PinClipart.com_lick-clipart_5314165@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "PinClipart.com_lick-clipart_5314165@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
